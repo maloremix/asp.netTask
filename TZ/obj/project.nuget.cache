@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxhIVnfeCledJI1eRiLFzkvSmGdxirz7rFLWB3luG5lmPVa6UPb6PfARDJhfNJs2r5TgpwNVq7nvGsq6GeZMUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nukella\\source\\repos\\TZ\\TZ\\TZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nukella\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\dadata\\22.6.0\\dadata.22.6.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

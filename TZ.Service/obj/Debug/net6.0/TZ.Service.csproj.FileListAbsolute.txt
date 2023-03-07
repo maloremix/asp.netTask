@@ -1,0 +1,12 @@
+C:\Users\Nukella\source\repos\TZ\TZ.Service\bin\Debug\net6.0\TZ.Service.deps.json
+C:\Users\Nukella\source\repos\TZ\TZ.Service\bin\Debug\net6.0\TZ.Service.dll
+C:\Users\Nukella\source\repos\TZ\TZ.Service\bin\Debug\net6.0\TZ.Service.pdb
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\TZ.Service.csproj.AssemblyReference.cache
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\TZ.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\TZ.Service.AssemblyInfoInputs.cache
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\TZ.Service.AssemblyInfo.cs
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\TZ.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\TZ.Service.dll
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\refint\TZ.Service.dll
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\TZ.Service.pdb
+C:\Users\Nukella\source\repos\TZ\TZ.Service\obj\Debug\net6.0\ref\TZ.Service.dll

@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TZ.Service/1.0.0": {
+        "dependencies": {
+          "Dadata": "22.6.0"
+        },
+        "runtime": {
+          "TZ.Service.dll": {}
+        }
+      },
+      "Dadata/22.6.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dadata.dll": {
+            "assemblyVersion": "21.9.1.0",
+            "fileVersion": "21.9.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TZ.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dadata/22.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ePApEO0uYYmg0BwaQhfBzy/DRx6U7eEfv7H29awrvRz7Q7wQ/dNtVeheXrLye98gjV9CE4aGrSlNn+P+e4ULTA==",
+      "path": "dadata/22.6.0",
+      "hashPath": "dadata.22.6.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5yTF1paqvSndZYQSBiWflSj9ZHsBm6GJ8rgpiNw+R/sYf7cTaQXNhhNz1P5oSMLYeGxp64kKrUSUq7axWmHzsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nukella\\source\\repos\\TZ\\TZ.Service\\TZ.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nukella\\.nuget\\packages\\dadata\\22.6.0\\dadata.22.6.0.nupkg.sha512",
+    "C:\\Users\\Nukella\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
